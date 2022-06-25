@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chriz-anit
-- 👀 I’m interested in programming.
+- 👀 I’m like programming.
 - 🌱 I’m currently studying in Sree Chitra Thirunal College of Engineering,Trivandrum,India.
 
 <!---
